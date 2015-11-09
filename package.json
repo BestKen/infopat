@@ -1,0 +1,11 @@
+{
+  "title": "InfoPat",
+  "name": "webpat-infopat",
+  "version": "1.0.2",
+  "id": "InfoPat@ltc.tw",
+  "description": "自動辦識網路文章或新聞的全球專利號，提供快速連結專利詳細資料，並掌握專利技術申請. Scans web articles for patent numbers and provides links for easy patent data access",
+  "main": "index.js",
+  "author": "ltc.tw",
+  "icon": "icon/icon48.png",
+  "license": "MIT" 
+}
