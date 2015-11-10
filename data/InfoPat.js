@@ -208,10 +208,8 @@ function textNodesUnder(el) {
 }
 
 $(function () {
-    if (location.protocol == "https:") {
-        return;
-    }
     var allTxtNodes = textNodesUnder(document.body);
+    console.log("InfoPat.js start.");
 
     for (var i = 0; i < allTxtNodes.length; i++) {
         doFilter(allTxtNodes[i]);
